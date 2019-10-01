@@ -12,8 +12,13 @@ Object detection has really evolved in the past few years and has become an esse
 
 ​	In our program we try to tie object detection with human computer interaction. Instead of using the model to detect objects in high resolution images, which they are built for, we try to see its capabilities to recognize more obscure drawings by humans. Human drawn doodles are quite different from actual photos because they do not give the model contextual knowledge via the background and surroundings. In order to make the program work as smoothly as possible, we picked from a few drawing APIs and a few recognition models and settled on Turtle and ssd-mobilenet since it yielded the best performance.
 
-​	In order to test the program, users simply open the `detect.ipynb` file in Jupyter Notebook and select the Run All Cells option. It will prompt you to draw a doodle via a separate screen. In this module, you can draw via dragging the left button on the mouse and finish by right clicking. The right click will automatically signal to save the image and perform object detection on it. The results will be directly printed on the Jupyter Notebook interface. To combat the problem of sometimes having low-res identification labels, we also print out in text the exact item the object-detection model detected.
+​	In order to test the program, users simply open the `detect.ipynb` file in Jupyter Notebook and select the Run All Cells option. It will prompt you to draw a doodle via a separate screen. In this module, you can draw via dragging the left button on the mouse and finish by right clicking. The right click will automatically signal to save the image and perform object detection on it. The results will be directly printed on the Jupyter Notebook interface. To combat the problem of sometimes having low-res identification labels, we also print out in text the exact item the object-detection model detected.   
+​	
+​A sample is reproduced below:  
+​
+![alt text][a]
 
+[a]:/Users/timothyqiu/Local_Document/GitHub/hack-a-thing-2-objectdetect/a.png
 
 #### Work Allocation
 
