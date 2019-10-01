@@ -27,7 +27,7 @@ Timothy:
 
 * Testing different models in the Tensorflow Object Detection API
 * Explored different Python drawing packages
-* Debug
+* Readme
 
 
 
