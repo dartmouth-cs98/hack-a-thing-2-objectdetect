@@ -18,7 +18,7 @@ Object detection has really evolved in the past few years and has become an esse
 ​
 ![alt text][a]
 
-[a]:/Users/timothyqiu/Local_Document/GitHub/hack-a-thing-2-objectdetect/a.png
+[a]:a.png
 
 #### Work Allocation
 
