@@ -14,7 +14,8 @@ Object detection has really evolved in the past few years and has become an esse
 
 ​	In order to test the program, users simply open the `detect.ipynb` file in Jupyter Notebook and select the Run All Cells option. It will prompt you to draw a doodle via a separate screen. In this module, you can draw via dragging the left button on the mouse and finish by right clicking. The right click will automatically signal to save the image and perform object detection on it. The results will be directly printed on the Jupyter Notebook interface. To combat the problem of sometimes having low-res identification labels, we also print out in text the exact item the object-detection model detected.   
 ​	
-​A sample is reproduced below:  
+​
+	​A sample is reproduced below:  
 ​
 ![alt text][a]
 
